@@ -19,7 +19,7 @@ Requirement
 - Deployment Target: iOS 7.1 or later
 
 This app runs under the following frameworks:
-- RestKit V-.20.3
+- RestKit V 0.20.3
 - CoreLocation
 - MapKit
 - CocoaPods - Dependency Manager
