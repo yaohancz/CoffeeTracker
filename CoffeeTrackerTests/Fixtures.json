@@ -1,0 +1,39 @@
+        {
+            "id":"4d9e47c19e138cfa6796789b",
+            "name":"Yarraville Train Station",
+            "contact":{  
+                "phone":"04358789"
+            },
+            "location":{  
+               "lat":37.8150272369385,
+               "lng":144.889090061188,
+               "distance":"1928",
+               "cc":"XX",
+               "formattedAddress":[  
+                  ""
+               ]
+            },
+            "categories":[  
+
+            ],
+            "verified":false,
+            "stats":{  
+               "checkinsCount":0,
+               "usersCount":0,
+               "tipCount":0
+            },
+            "specials":{  
+               "count":0,
+               "items":[  
+
+               ]
+            },
+            "hereNow":{  
+               "count":0,
+               "summary":"0 people here",
+               "groups":[  
+
+               ]
+            },
+            "referralId":"v-1407029578"
+         }
