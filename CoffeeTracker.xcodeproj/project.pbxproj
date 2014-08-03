@@ -32,7 +32,6 @@
 		B8F8DD451989F841008380DF /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8F8DD441989F841008380DF /* MapKit.framework */; };
 		B8F8DD481989FE29008380DF /* Contact.m in Sources */ = {isa = PBXBuildFile; fileRef = B8F8DD471989FE29008380DF /* Contact.m */; };
 		B8F8DD491989FE29008380DF /* Contact.m in Sources */ = {isa = PBXBuildFile; fileRef = B8F8DD471989FE29008380DF /* Contact.m */; };
-		B8F8DD4B198DB8F1008380DF /* getJSONTest.m in Sources */ = {isa = PBXBuildFile; fileRef = B8F8DD4A198DB8F1008380DF /* getJSONTest.m */; };
 		B8F8DD59198DC9AB008380DF /* Fixtures.json in Resources */ = {isa = PBXBuildFile; fileRef = B8F8DD58198DC9AB008380DF /* Fixtures.json */; };
 		B8F8DD5A198DC9AB008380DF /* Fixtures.json in Resources */ = {isa = PBXBuildFile; fileRef = B8F8DD58198DC9AB008380DF /* Fixtures.json */; };
 /* End PBXBuildFile section */
@@ -80,7 +79,6 @@
 		B8F8DD441989F841008380DF /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		B8F8DD461989FE29008380DF /* Contact.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Contact.h; sourceTree = "<group>"; };
 		B8F8DD471989FE29008380DF /* Contact.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Contact.m; sourceTree = "<group>"; };
-		B8F8DD4A198DB8F1008380DF /* getJSONTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = getJSONTest.m; sourceTree = "<group>"; };
 		B8F8DD4C198DBC22008380DF /* libPods-AFNetworking.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-AFNetworking.a"; path = "Pods/build/Debug-iphoneos/libPods-AFNetworking.a"; sourceTree = "<group>"; };
 		B8F8DD4D198DBC22008380DF /* libPods-RestKit.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-RestKit.a"; path = "Pods/build/Debug-iphoneos/libPods-RestKit.a"; sourceTree = "<group>"; };
 		B8F8DD4E198DBC22008380DF /* libPods-SOCKit.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-SOCKit.a"; path = "Pods/build/Debug-iphoneos/libPods-SOCKit.a"; sourceTree = "<group>"; };
@@ -197,7 +195,6 @@
 			isa = PBXGroup;
 			children = (
 				B8F8DD58198DC9AB008380DF /* Fixtures.json */,
-				B8F8DD4A198DB8F1008380DF /* getJSONTest.m */,
 				B827729F1988F6A800F5879B /* CoffeeTrackerTests.m */,
 				B827729A1988F6A800F5879B /* Supporting Files */,
 			);
@@ -366,7 +363,6 @@
 				B82772A01988F6A800F5879B /* CoffeeTrackerTests.m in Sources */,
 				B81E5D69198929D300B7A06A /* Location.m in Sources */,
 				B81E5D651989274D00B7A06A /* CoffeeShopCell.m in Sources */,
-				B8F8DD4B198DB8F1008380DF /* getJSONTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
