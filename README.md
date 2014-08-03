@@ -26,14 +26,20 @@ This app runs under the following frameworks:
 
 Installation Instruction
 --------------
-- Clone the project using this command in terminal: git clone https://github.com/yaohancz/CoffeeTracker.git (recommended)
+- Clone the project using this command in terminal: 
+- git clone https://github.com/yaohancz/CoffeeTracker.git (recommended)
 - or Download the zip file from github
 - Open CoffeeTracker.xcworkspace file
-
+- ![Alt text](https://cloud.githubusercontent.com/assets/4084100/3790074/b55d1bfc-1ae3-11e4-8d21-15726321cdea.png "Screenshot 1")
 - Build and Run
+- ![Alt text](https://cloud.githubusercontent.com/assets/4084100/3790075/d48e12ce-1ae3-11e4-908d-5d6fa0c2b986.png "Screenshot 2")
 
 Screenshot & Usage Example
 --------------
+- Main screen (List of coffee shop nearby)
+- ![Alt text](https://cloud.githubusercontent.com/assets/4084100/3790099/5a1af32a-1ae5-11e4-92a0-22e69c4e4e2e.png "Screenshot 2")
+- Detail screen (Maps & open in maps and call the coffee shop)
+- ![Alt text](https://cloud.githubusercontent.com/assets/4084100/3790098/54236542-1ae5-11e4-8940-1245ab920bde.png "Screenshot 2")
 
 License
 --------------
