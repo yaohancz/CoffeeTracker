@@ -14,20 +14,23 @@ Features
 
 Requirement
 --------------
-- Xcode 5 or later
-- Base SDK: iOS 7.0 or later
-- Deployment Target: iOS 7.0 or later
+- Xcode 5.1.1 or later
+- Base SDK: iOS 7.1 or later
+- Deployment Target: iOS 7.1 or later
 
 This app runs under the following frameworks:
-- RestKit 
+- RestKit V-.20.3
+- CoreLocation
+- MapKit
 - CocoaPods - Dependency Manager
 
 Installation Instruction
 --------------
-- Download
-- Open xcworkspace
-- Run
-- Simulator - Device - location - apple
+- Clone the project using this command in terminal: git clone https://github.com/yaohancz/CoffeeTracker.git (recommended)
+- or Download the zip file from github
+- Open CoffeeTracker.xcworkspace file
+
+- Build and Run
 
 Screenshot & Usage Example
 --------------
